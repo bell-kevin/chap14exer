@@ -18,6 +18,16 @@ A. Script 14.1 showing:
 B. Script 14.2 showing:
   1. a modifier match
   2. a match and replace
+  
+![p](https://github.com/bell-kevin/chap14exer/blob/main/chap14exer/screenshots/14.1K%20simple%20pattern%20match.PNG)
+
+![p](https://github.com/bell-kevin/chap14exer/blob/main/chap14exer/screenshots/14.1O%20character%20class%20match.PNG)
+
+![p](https://github.com/bell-kevin/chap14exer/blob/main/chap14exer/screenshots/14.1Q%20quantifier%20match.PNG)
+
+![p](https://github.com/bell-kevin/chap14exer/blob/main/chap14exer/screenshots/14.2%20match%20and%20replace.PNG)
+
+![p](https://github.com/bell-kevin/chap14exer/blob/main/chap14exer/screenshots/14.2%20modifier%20match.PNG)
 
 
 == We're Using GitHub Under Protest ==
