@@ -1,4 +1,22 @@
-# 
+# Perl-Compatible Regular Expressions
+
+Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
+
+Read Chapter 14 of your textbook, completing each exercise.
+
+Notes:
+
+The book uses the term "shortcut" instead of the more common "shorthand" when refering to regex shorthand character classes.  So if you need to Google, use: regex shorthand character classes.  Hint: helps to escape them little critters....!  if you are using strict slashes (see note on pg 436 about Magic Quotes)
+
+Submission: Please take and submit .png screenshots (combined into in a .zip file.) showing your working code running in a browser; specifically, the following screenshots:
+
+A. Script 14.1 showing:
+  1. a simple pattern match
+  2. a quantifier match
+  3. a character class match
+B. Script 14.2 showing:
+  1. a modifier match
+  2. a match and replace
 
 
 == We're Using GitHub Under Protest ==
